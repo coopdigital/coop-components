@@ -1,0 +1,19 @@
+{
+  "name": "coop-components",
+  "version": "1.0.0",
+  "description": "Co-op UI components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coopdigital/coop-components.git"
+  },
+  "author": "Matt Tyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coopdigital/coop-components/issues"
+  },
+  "homepage": "https://github.com/coopdigital/coop-components#readme"
+}
