@@ -1,6 +1,6 @@
 {
   "name": "coop-components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Co-op UI components",
   "main": "index.js",
   "scripts": {
