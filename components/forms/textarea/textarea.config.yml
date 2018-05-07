@@ -1,3 +1,5 @@
 title: Textarea
 status: ready
 order: 2
+display:
+  max-width: 500px

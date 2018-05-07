@@ -1,3 +1,6 @@
 title: Checkboxes
 status: ready
 order: 3
+display:
+  max-width: 750px
+  min-height: 450px

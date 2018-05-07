@@ -1,3 +1,5 @@
 title: Submit
 status: ready
 order: 5
+display:
+  max-width: 500px

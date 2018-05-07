@@ -1,3 +1,7 @@
 title: Text
 status: ready
 order: 2
+display:
+  max-width: 300px
+  min-width: 250px
+  min-height: 140px

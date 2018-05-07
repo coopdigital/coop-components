@@ -1,5 +1,3 @@
-We use Avenir Next in regular, medium and demi bold weights.
-
 <table class="typographic-scale table-smallscreen--stacked margin-bb">
     <caption>Size, line height and spacing above 768px</caption>
     <thead>

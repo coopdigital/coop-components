@@ -1,3 +1,6 @@
 title: Radio buttons
 status: ready
 order: 4
+display:
+  max-width: 750px
+  min-height: 450px

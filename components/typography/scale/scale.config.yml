@@ -1,0 +1,5 @@
+title: Scale
+status: ready
+order: 1
+display:
+  min-height: 600px
