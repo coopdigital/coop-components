@@ -1,0 +1,8 @@
+title: "Page example"
+context:
+  title: "Example page"
+  primaryButton:
+    text: Send feedback
+  label:
+    text: Full name
+    for: full-name

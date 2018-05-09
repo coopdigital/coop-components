@@ -1,9 +1,9 @@
 title: Input
 status: ready
-order: 2
+order: 1
 display:
   max-width: 500px
 context:
   label:
-    text: Full name
-    for: full-name
+    text: Input label
+    for: input-id-name

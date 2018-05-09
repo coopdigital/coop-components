@@ -3,3 +3,22 @@ status: ready
 order: 1
 display:
   min-height: 600px
+context:
+  headingMega:
+    text: Heading mega
+  heading1:
+    text: Heading 1
+  heading2:
+    text: Heading 2
+  heading3:
+    text: Heading 3
+  heading4:
+    text: Heading 4
+  heading5:
+    text: Heading 5
+  heading6:
+    text: Heading 6
+  lead-paragraph:
+    text: Lead paragraph
+  paragraph:
+    text: Paragraph
