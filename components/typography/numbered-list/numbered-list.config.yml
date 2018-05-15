@@ -1,0 +1,8 @@
+title: Numbered list
+status: ready
+order: 11
+context:
+  numberedlist:
+    item1: Put on socks.
+    item2: Put on shoes.
+    item3: Tie laces.

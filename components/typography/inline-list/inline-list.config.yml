@@ -1,0 +1,8 @@
+title: Inline list
+status: ready
+order: 12
+context:
+  inlinelist:
+    item1: Link
+    item2: Another link
+    item3: A third link

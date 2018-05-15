@@ -1,0 +1,8 @@
+title: Bullet list
+status: ready
+order: 10
+context:
+  list:
+    item1: an overview of the last month
+    item2: a presentation
+    item3: a special announcement

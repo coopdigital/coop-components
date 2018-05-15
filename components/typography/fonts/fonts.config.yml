@@ -1,0 +1,10 @@
+title: Font
+status: ready
+order: 1
+context:
+  regular:
+    text: Avenir Next Regular
+  medium:
+    text: Avenir Next Medium
+  demibold:
+    text: Avenir Next Demi Bold
