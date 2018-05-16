@@ -1,6 +1,7 @@
 title: Inline list
 status: ready
 order: 12
+hidden: true
 context:
   inlinelist:
     item1: Link

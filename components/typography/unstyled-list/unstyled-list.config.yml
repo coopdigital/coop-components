@@ -1,6 +1,7 @@
 title: Unstyled list
 status: ready
 order: 12
+hidden: true
 context:
   unstyledlist:
     item1: an overview of the last month

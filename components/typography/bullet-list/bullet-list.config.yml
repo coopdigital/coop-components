@@ -1,8 +1,18 @@
 title: Bullet list
 status: ready
 order: 10
+display:
+  min-height: 500px
 context:
   list:
     item1: an overview of the last month
     item2: a presentation
     item3: a special announcement
+  unstyledlist:
+    item1: an overview of the last month
+    item2: a presentation
+    item3: a special announcement
+  inlinelist:
+    item1: Link
+    item2: Another link
+    item3: A third link
