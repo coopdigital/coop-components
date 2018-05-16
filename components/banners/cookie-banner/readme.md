@@ -1,0 +1,1 @@
+Self dismissing cookie banner currently used on coop.co.uk, co-operative.coop and colleagues.coop.co.uk
