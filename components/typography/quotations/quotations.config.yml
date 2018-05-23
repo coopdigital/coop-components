@@ -1,0 +1,9 @@
+title: Quotations
+status: ready
+order: 13
+display:
+  min-height: 350px
+context:
+  quote:
+    text: ''
+    cite: 'The design team'
