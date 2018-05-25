@@ -1,6 +1,8 @@
 title: Buttons
 status: ready
-order: 1
+order: 6
 context:
+  button:
+    text: Button
   primaryButton:
     text: Primary button

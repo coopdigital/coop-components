@@ -1,6 +1,0 @@
-title: Button
-status: ready
-order: 6
-context:
-  button:
-    text: Button
