@@ -1,0 +1,6 @@
+title: Button
+status: ready
+hidden: true
+context:
+  button:
+    text: Button
