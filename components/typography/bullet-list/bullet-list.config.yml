@@ -2,7 +2,7 @@ title: Bullet list
 status: ready
 order: 10
 display:
-  min-height: 500px
+  min-height: 200px
 context:
   list:
     item1: an overview of the last month
