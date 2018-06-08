@@ -1,5 +1,10 @@
 title: Logo
+label: Logo
 status: ready
 order: 1
+tags:
+  - JS
+  - MT
+  - KW
 display:
   min-height: 250px

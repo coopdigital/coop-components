@@ -1,4 +1,5 @@
 title: Header
-label: Header  
+label: Header
 status: ready
 order: 9
+hidden: true

@@ -1,4 +1,4 @@
-<p>Checkboxes have:</p>
+<p>Radio buttons have:</p>
 <ul>
     <li>a background of #F3F3F3</li>
     <li>rounded corners of 5px</li>
