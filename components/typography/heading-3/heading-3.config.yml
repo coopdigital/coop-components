@@ -1,7 +1,7 @@
-title: Scale
+title: Heading 3
 status: ready
 order: 1
 hidden: true
 context:
   heading3:
-    text: Heading 3
+    text: Heading
