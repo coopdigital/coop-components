@@ -1,11 +1,12 @@
-title: Card with image
-label: Card with image
+title: Card group with heading
+label: Card group with heading
 status: ready
-preview: '@preview-bg'
+preview: '@preview-bg-padded'
 display:
-  min-height: 1200px
-  max-width: 750px
+  min-height: 650px
 context:
+  cardHeading:
+    text: Colleague stories
   heading3:
     text: We’re celebrating LGBT history month
   paragraph:

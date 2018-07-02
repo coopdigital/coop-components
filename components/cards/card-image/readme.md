@@ -1,1 +1,1 @@
-<p>Cards are used to group discrete pieces of information such as blog posts.</p>
+<p>Cards with images should be used where there is an image supports the content - such as a blog post.</p>
