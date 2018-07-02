@@ -1,10 +1,9 @@
-title: Card with image
-label: Card with image
+title: Card group
+label: Card group
 status: ready
 preview: '@preview-bg'
 display:
-  min-height: 1200px
-  max-width: 750px
+  min-height: 650px
 context:
   heading3:
     text: We’re celebrating LGBT history month

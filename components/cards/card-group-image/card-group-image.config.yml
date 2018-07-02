@@ -1,7 +1,7 @@
-title: Card group heading
-label: Card group heading
+title: Card group
+label: Card group
 status: ready
-preview: '@preview-bg-padded'
+preview: '@preview-bg'
 display:
   min-height: 650px
 context:
