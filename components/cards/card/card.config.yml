@@ -3,7 +3,7 @@ label: Card
 status: ready
 preview: '@preview-bg'
 display:
-  min-height: 300px
+  min-height: 300px 
   max-width: 750px
 context:
   heading3:
