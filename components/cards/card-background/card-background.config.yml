@@ -1,0 +1,11 @@
+title: Card background
+label: Card background
+status: ready
+preview: '@preview'
+display:
+  min-height: 650px
+context:
+  heading3:
+    text: We’re celebrating LGBT history month
+  paragraph:
+    text: We’re also asking all Co-op colleagues which Pride events they’d like to get involved in.

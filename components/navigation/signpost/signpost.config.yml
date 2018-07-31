@@ -1,0 +1,10 @@
+title: Signpost with description
+status: ready
+hidden: true
+display:
+  min-height: 300px
+  max-width: 750px
+context:
+  signpost1:
+    title:
+      text: Colleague benefits

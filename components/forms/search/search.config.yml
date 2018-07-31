@@ -1,0 +1,11 @@
+title: Search
+status: wip
+order: 2
+preview: '@preview-padded'
+display:
+  max-width: 750px
+context:
+  label:
+    text: Search the design system
+    for: search
+    cssClass: visuallyhidden

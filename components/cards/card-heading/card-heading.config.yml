@@ -1,0 +1,7 @@
+title: Card heading
+label: Card heading
+status: ready
+preview: '@preview-bg-padded'
+context:
+  cardHeading:
+    text: Colleague stories

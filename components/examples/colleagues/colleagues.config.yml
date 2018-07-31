@@ -1,0 +1,24 @@
+title: "Page example"
+order: 11
+preview: '@preview-full'
+display:
+  min-height: 800px
+context:
+  title: "Example page"
+  primaryButton:
+    text: Send feedback
+  label:
+    text: Search
+    for: search
+    cssClass: visuallyhidden
+  cardHeading:
+    text: Colleague stories
+  heading3:
+    text: We’re celebrating LGBT history month
+  paragraph:
+    text: We’re also asking all Co-op colleagues which Pride events they’d like to get involved in.
+  signpost1:
+    title:
+      text: Colleague benefits
+    paragraph:
+      text: Discounts, pensions, health and wellbeing, help wirth your finances, advice and support.

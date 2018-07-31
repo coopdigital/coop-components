@@ -1,0 +1,12 @@
+title: Signpost with paragraph
+status: ready
+hidden: true
+display:
+  min-height: 300px
+  max-width: 750px
+context:
+  signpost1:
+    title:
+      text: Colleague benefits
+    paragraph:
+      text: Discounts, pensions, health and wellbeing, help wirth your finances, advice and support.
